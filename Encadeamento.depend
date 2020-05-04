@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1559185450 source:c:\users\gyosh\documents\trabalhos\encadeamento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrix.h"
+
+1559185754 source:c:\users\gyosh\documents\trabalhos\encadeamento\matrix.c
+	<stdio.h>
+	<stdlib.h>
+	"matrix.h"
+
+1559184104 c:\users\gyosh\documents\trabalhos\encadeamento\matrix.h
+
+1559225641 source:c:\users\deseg-sh1\desktop\encadeamento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrix.h"
+
+1559225295 c:\users\deseg-sh1\desktop\encadeamento\matrix.h
+
+1559225797 source:c:\users\deseg-sh1\desktop\encadeamento\matrix.c
+	<stdio.h>
+	<stdlib.h>
+	"matrix.h"
+
